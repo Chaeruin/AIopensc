@@ -1,0 +1,13 @@
+langchain
+llama-cpp-python
+PyPDF2==3.0.1
+faiss-cpu==1.7.4
+ctransformers
+pypdf
+chromadb
+tiktoken
+pysqlite3-binary
+streamlit-extras
+InstructorEmbedding
+sentence-transformers
+jq
