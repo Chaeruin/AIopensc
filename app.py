@@ -7,7 +7,7 @@ from langchain.memory import ConversationBufferMemory
 from langchain.chains import ConversationalRetrievalChain
 from htmlTemplates import css, bot_template, user_template
 from langchain.llms import LlamaCpp  
-from langchain.document_loaders import PyPDFLoader, TextLoader, JSONLoader, CSVLoader
+from langchain.document_loaders import PyPDFLoader
 import tempfile
 import os
 from huggingface_hub import hf_hub_download 
