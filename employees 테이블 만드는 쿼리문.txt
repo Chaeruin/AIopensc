@@ -1,0 +1,10 @@
+create table employees(
+	id varchar(10) not null primary key,
+	pass varchar(10) not null,
+        name varchar(24) ,
+        lev char(1) ,
+        enter Date,
+        gender char(1)  ,
+        phone varchar(30),
+
+);
